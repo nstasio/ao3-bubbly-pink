@@ -1,0 +1,162 @@
+div.userstuff,
+div.preface,
+div.afterword,
+div.css.module {
+  width: 50em;
+  max-width: 83%;
+  border: 1px solid #866486;
+  border-radius: 20px;
+  background: #f6b9e7;
+  padding: 1em 2em;
+}
+
+#dashboard .current,
+.splash .favorite li:nth-of-type(2n+1) a {
+  background: #e684bb;
+}
+
+.dashboard .own,
+.comment span.unreviewed {
+  background: #f6b9e7;
+}
+
+div.favorite.module {
+  width: 40%;
+}
+
+.splash {
+  max-width: 90%;
+}
+
+li.post.group {
+  border: 1px solid #866486;
+  border-radius: 20px;
+  padding: 1em 2em;
+  background: #f6b9e7;
+}
+
+div.bio.module {
+  max-width: 90%;
+  border: 1px solid #866486;
+  border-radius: 30px;
+  background: #f6b9e7;
+  padding: 1em 2em;
+  margin: 2em auto;
+  float: none;
+}
+
+div.css.module {
+  margin: auto;
+}
+
+fieldset {
+  box-shadow: none;
+  border: 2px solid #866486;
+}
+
+.listbox .index,
+.wrapper {
+  box-shadow: none;
+}
+
+div.preface {
+  margin: 1em auto 0em;
+}
+
+div.userstuff {
+  margin: .5em auto;
+}
+
+div.afterword {
+  margin: 0em auto 1em;
+}
+
+#outer,
+body,
+ol.index.group,
+ul.index.group {
+  background-color: #eca7d2;
+}
+
+.listbox {
+  border-radius: 10px;
+  border: 2px solid #866486;
+  box-shadow: 1px 1px 3px #973563;
+}
+
+div.comment {
+  border: none;
+}
+
+li.blurb,
+dl.work,
+dl.meta,
+li.own {
+  background: #f6b9e7;
+  border: 2px solid #866486;
+  border-radius: 15px;
+  box-shadow: 1px 1px 5px #973563;
+  padding: 1em;
+}
+
+#header.region {
+  background-color: #f6b9e7;
+}
+
+li.relationships a {
+  background-color: inherit;
+}
+
+#dashboard ul {
+  border-top: 2px solid #866486;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.toggled form,
+.dynamic form {
+  background: #e684bb;
+  border-radius: 10px;
+}
+
+#modal {
+  border-radius: 20px;
+}
+
+form dt,
+.splash .module h3,
+input,
+textarea {
+  border-bottom: 1px solid #866486;
+}
+
+input,
+textarea,
+.secondary,
+#input a:focus, 
+.thread .odd {
+  background: #ffd0ea;
+}
+
+.thread .even {
+  background: #f6b9e7;
+}
+
+
+
+li.comment {
+  border-radius: 0px 0px 10px 10px;
+  border: 2px solid #866486;
+}
+
+.comment h4.byline, .listbox {
+  background: #cf537c;
+}
+
+a:visited {
+  color: #720000;
+}
