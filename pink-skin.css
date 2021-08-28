@@ -160,3 +160,13 @@ li.comment {
 a:visited {
   color: #720000;
 }
+
+.tagset .fandom.listbox .tags.index.group li {
+  display: block;
+  margin-top: 0.4em;
+  line-height: 1;
+}
+
+.tagset .fandom.listbox .tags.index.group li::after {
+  content: none;
+}
